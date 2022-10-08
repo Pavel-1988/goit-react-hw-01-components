@@ -1,0 +1,22 @@
+.section {
+  width: 1200px;
+  margin: 0 auto;
+  margin-bottom: 50px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  border: 1px solid #000;
+  border-radius: 5px;
+  background-color: rgb(241, 234, 234);
+}
+
+.container {
+  margin: 0 auto;
+  padding: 20px;
+  
+}
+
+.title {
+  margin-bottom: 30px;
+  text-transform: uppercase;
+  font-size: 20px;
+}
